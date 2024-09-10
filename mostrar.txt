@@ -1,8 +1,8 @@
 /* Escribe tu código aquí */
 function mostrar(arreglo){
-        for(i=0; i<3; i++){
-            console.log(arreglo[i]);
-        }
+    for(i=0; i<3; i++){
+        console.log(arreglo[i]);
+    }
 }
 /* Fin */
 
